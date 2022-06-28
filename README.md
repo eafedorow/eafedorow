@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eafedorow
 - 👀 I’m interested in Web-development
-- 🌱 I’m currently learning JS, React, Redux and other different frond-end stuff. 
+- 🌱 I’m currently learning JS, React, Redux and other different front-end stuff. 
 - 📫 How to reach me - eafedorow@yandex.ru
 
 <!---
